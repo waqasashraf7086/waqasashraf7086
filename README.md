@@ -64,7 +64,6 @@ I connect and set up your sales channels with Shopify for unified multichannel s
 <p>
   <a href="https://www.linkedin.com/in/waqas-ashraf-301898249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~0118940b1b7ea8007b"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </p>
 
 <p align="center"><i>Got a Shopify store that isn't converting? Let's talk. 🚀</i></p>
