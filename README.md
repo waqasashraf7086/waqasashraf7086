@@ -1,69 +1,56 @@
-<h1 align="center">Waqas Ashraf</h1>
+# Waqas Ashraf
 
-<p align="center">
-  <b>Shopify Developer · Shopify Plus · CRO &amp; Performance Optimization</b>
-</p>
+**Shopify Developer · Shopify Plus · CRO & Performance Optimization**
 
-<p align="center">
-  Shopify &amp; Shopify Plus Developer | Custom themes, store redesigns, smooth migrations &amp;
-  multichannel setup — Amazon, eBay, Etsy &amp; TikTok integration with Shopify
-</p>
+Custom themes, store redesigns, smooth migrations & multichannel setup — Amazon, eBay, Etsy & TikTok integration with Shopify.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify%20Plus-004C3F?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Liquid-2D2D2D?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p>
+  <a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" /></a>
+  <a href="https://www.shopify.com/plus"><img src="https://img.shields.io/badge/Shopify_Plus-004C3F?style=flat-square&logo=shopify&logoColor=white" /></a>
+  <a href="https://shopify.dev/docs/api/liquid"><img src="https://img.shields.io/badge/Liquid-2D2D2D?style=flat-square&logo=shopify&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
 </p>
 
 ---
 
-I'm a **Shopify &amp; Shopify Plus Developer** with **4+ years** of experience building
-high-converting, fast-loading eCommerce stores. I turn slow, underperforming stores into
-clean, scalable storefronts that are built to sell — combining custom design, performance,
-and SEO so a store both ranks and converts.
+## About
 
-<br>
+Shopify & Shopify Plus Developer with **4+ years** of experience building high-converting, fast-loading stores. I turn slow, underperforming storefronts into clean, scalable, custom-coded experiences — combining design, performance, and SEO so a store both ranks and sells.
 
-## 🛠️ What I Do
+## What I Do
 
-|  |  |
-|---|---|
-| 🧩 **Custom Theme Development** — Liquid, HTML, CSS, JS | 📈 **Conversion Rate Optimization (CRO)** |
-| 🎨 **Store Design &amp; Redesign** — mobile-first UI/UX | ⚡ **Speed &amp; Core Web Vitals Optimization** |
-| 🔍 **Technical &amp; On-Page SEO** — schema, sitemaps, meta | 🔌 **App Integrations &amp; Shopify Plus** |
-| 🔁 **Store Migration** — seamless, no data or SEO loss | 📱 **Responsive, Cross-Device Design** |
+- **Custom Theme Development** — Liquid, HTML, CSS, JavaScript
+- **Store Design & Redesign** — mobile-first UI/UX
+- **Conversion Rate Optimization (CRO)**
+- **Speed & Core Web Vitals Optimization**
+- **Technical & On-Page SEO** — schema, sitemaps, meta
+- **App Integrations & Shopify Plus**
+- **Store Migration** — no data or SEO loss
+- **Multichannel Selling** — Amazon, eBay, Etsy & TikTok integrated with Shopify
 
-<br>
+## Featured Projects
 
-## 🛒 Multichannel Integration
+Recent Shopify stores I've built and customized — each involving custom Liquid development, app integrations, and performance work:
 
-I connect and set up your sales channels with Shopify for unified multichannel selling:
+- **[313 Custom](https://313custom.com/)** — Custom sports apparel store with a build-your-own jersey customizer
+- **[HEYSHAPE](https://getheyshape.com/)** — High-converting shapewear & activewear brand
+- **[G&B Pro](https://gandbpro.com/)** — Professional barber tools & mobile barber stations
+- **[NUSHE](https://nushe.co/)** — Cooling weighted blanket brand
+- **[Mod Office](https://shopmodoffice.com/)** — Premium office furniture & privacy pods
+- **[Leissing](https://www.leissing.eu/)** — German workwear store with custom logo-service functionality
+- **[ELM Motos](https://elm-motos.com/)** — Motorcycle parts store, multi-language (FR)
 
-<p>
-  <img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
-  <img src="https://img.shields.io/badge/eBay-E53238?style=for-the-badge&logo=ebay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Etsy-F16521?style=for-the-badge&logo=etsy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TikTok%20Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</p>
-
-<br>
-
-## 📜 Certifications
+## Certifications
 
 - **Certified Shopify Expert** — Shopify
 - **Ecommerce Store with Shopify** — Coursera
 - **BS Computer Science** — Government College University, Faisalabad
 
-<br>
-
-## 🤝 Connect With Me
+## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/waqas-ashraf-301898249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~0118940b1b7ea8007b"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/waqas-ashraf-301898249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~0118940b1b7ea8007b"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" /></a>
 </p>
-
-<p align="center"><i>Got a Shopify store that isn't converting? Let's talk. 🚀</i></p>
