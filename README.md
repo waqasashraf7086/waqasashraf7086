@@ -17,7 +17,7 @@ Custom themes, store redesigns, smooth migrations & multichannel setup — Amazo
 
 ## About
 
-Shopify & Shopify Plus Developer with **4+ years** of experience building high-converting, fast-loading stores. I turn slow, underperforming storefronts into clean, scalable, custom-coded experiences — combining design, performance, and SEO so a store both ranks and sells.
+Shopify & Shopify Plus Developer with **5+ years** of experience building high-converting, fast-loading stores. I turn slow, underperforming storefronts into clean, scalable, custom-coded experiences — combining design, performance, and SEO so a store both ranks and sells.
 
 ## What I Do
 
