@@ -2,7 +2,7 @@
 
 **Shopify Developer · Shopify Plus · CRO & Performance Optimization**
 
-Custom themes, store redesigns, smooth migrations & multichannel setup — Amazon, eBay, Etsy & TikTok integration with Shopify.
+Custom shopify themes, shopify store redesigns, smooth migrations & multichannel setup — Amazon, eBay, Etsy & TikTok integration with Shopify.
 
 <p>
   <a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" /></a>
